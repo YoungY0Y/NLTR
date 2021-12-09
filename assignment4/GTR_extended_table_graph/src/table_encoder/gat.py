@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@Author     : Fei Wang
-@Contact    : fwang1412@gmail.com
-@Time       : 2020/12/9 22:20
-@Description: 
-"""
 from torch import nn
 import torch.nn.functional as F
 from dgl.nn.pytorch import GATConv

@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@Author     : Fei Wang
-@Contact    : fwang1412@gmail.com
-@Time       : 2020/12/28 19:46
-@Description: 
-"""
+
 from tqdm import tqdm
 import numpy as np
 import torch
